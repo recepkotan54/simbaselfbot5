@@ -4,12 +4,12 @@ const client = new Discord.Client();
 
 
 client.on("guildMemberAdd", member => {
-    member.send('Merhaba Kanka! :heart: \Seni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC');
+    member.send('Merhaba Kanka! :heart: \Seni ***__HaSimba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC https://discord.gg/Rw6dHW7');
 
     //member.guild.defaultChannel.sendMessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 })
 client.on("guildMemberRemove", member => {
-    member.send('Merhaba Kanka! :heart: \Seni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC');
+    member.send('Merhaba Kanka! :heart: \Seni ***__HaSimba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC https://discord.gg/Rw6dHW7');
 
     //member.guild.defaultChannel.sendMessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 })
