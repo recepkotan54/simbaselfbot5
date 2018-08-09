@@ -4,12 +4,12 @@ const client = new Discord.Client();
 
 
 client.on("guildMemberAdd", member => {
-    member.send('Merhaba Kanka! :heart: \Seni ***__HaSimba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC https://discord.gg/Rw6dHW7');
+    member.send('Merhaba Kanka! :heart: \Seni ***__HaSimba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU https://discord.gg/Rw6dHW7');
 
     //member.guild.defaultChannel.sendMessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 })
 client.on("guildMemberRemove", member => {
-    member.send('Merhaba Kanka! :heart: \Seni ***__HaSimba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC https://discord.gg/Rw6dHW7');
+    member.send('Merhaba Kanka! :heart: \Seni ***__HaSimba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU https://discord.gg/Rw6dHW7');
 
     //member.guild.defaultChannel.sendMessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 })
@@ -17,61 +17,61 @@ client.on("guildMemberRemove", member => {
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'sa') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'hb') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'as') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'partner') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'tm') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'hb') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'tmm') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'hoşgeldin') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'selamun aleyküm') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 
 client.on("message", async message =>{
   if (message.content.toLowerCase()=== 'merhaba') {
-message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/p5PSTYC')
+message.author.send('Merhaba Kanka! :heart: \nSeni ***__Simba__*** Krallığına Davet Ediyorum!👉  https://discord.gg/ee6sGSU')
   }
 })
 client.on("guildCreate", guild => {
